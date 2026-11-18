@@ -1,0 +1,19 @@
+# Python environment and caches (rebuild with requirements.txt)
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Logs and backups
+*.log
+data/raw backup/
+
+# Scans and model files (too large; see README step 1)
+*.dcm
+*.npy
+*.nii.gz
+*.pt
+*.pth
+*.tar
+data/external/hqcolon/
