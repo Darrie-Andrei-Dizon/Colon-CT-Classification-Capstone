@@ -1,0 +1,3 @@
+step,CTC_series,CTC_patients,CTC_malignant_patients,StageII_series,StageII_patients,StageII_malignant_patients,StageII_contrast_in_desc
+all scans in use,214,98,3,230,230,230,82
+matched,38,37,1,88,88,88,69

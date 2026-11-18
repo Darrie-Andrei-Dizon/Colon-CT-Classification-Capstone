@@ -1,0 +1,36 @@
+{
+  "seed": 20261023,
+  "fractions": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  },
+  "split_unit": "patient",
+  "cohort_split_sha256": "41779a515d3fb62c5b267b9a52e4d71569c254275a7505d3457c5f2dbfef6d2e",
+  "counts": {
+    "CTC": {
+      "challenge": 3,
+      "excluded": 5,
+      "pretrain": 722,
+      "test": 15,
+      "train": 66,
+      "val": 14
+    },
+    "StageII": {
+      "challenge": 0,
+      "excluded": 0,
+      "pretrain": 0,
+      "test": 35,
+      "train": 161,
+      "val": 34
+    }
+  },
+  "download_GB": {
+    "CTC": 61.7,
+    "StageII": 7.3
+  },
+  "download_series": {
+    "CTC": 226,
+    "StageII": 230
+  }
+}

@@ -1,0 +1,32 @@
+field,value,ctc_series,stageII_series,in_both
+manufacturer,GE MEDICAL SYSTEMS,30,0,False
+manufacturer,Philips,6,32,True
+manufacturer,SIEMENS,78,198,True
+manufacturer,TOSHIBA,8,0,False
+manufacturer,missing,92,0,False
+kernel,B,6,32,True
+kernel,B20f,4,0,False
+kernel,B30f,134,101,True
+kernel,B31f,0,97,False
+kernel,FC13,8,0,False
+kernel,STANDARD,62,0,False
+slice_thickness,0.625,2,0,False
+slice_thickness,1.0,152,0,False
+slice_thickness,1.25,60,0,False
+slice_thickness,5.0,0,230,False
+kvp,100.0,0,13,False
+kvp,120.0,214,217,True
+patient_position,FFDL,2,0,False
+patient_position,FFDR,5,0,False
+patient_position,FFP,60,0,False
+patient_position,FFS,60,230,True
+patient_position,HFDR,8,0,False
+patient_position,HFP,39,0,False
+patient_position,HFS,40,0,False
+contrast_tag,APPLIED,0,5,False
+contrast_tag,CE,3,0,False
+contrast_tag,CONTRAST,0,15,False
+contrast_tag,M ORIN,2,0,False
+contrast_tag,none recorded,209,210,True
+contrast_in_desc,no,214,148,True
+contrast_in_desc,yes,0,82,False

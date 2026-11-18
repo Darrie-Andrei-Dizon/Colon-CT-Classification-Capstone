@@ -1,0 +1,15 @@
+,0
+scans,62
+patients,43
+flipped,0
+slab_count_mismatch,0
+coverage_median,0.9877259036144579
+coverage_min,0.8314606741573034
+scans_missing_gt2_low,12
+missed_low_max,10
+dice_ours_median,0.9806322629014119
+dice_their_ts_median,0.9861111111111112
+low_offset_ours_median,-1.0
+low_offset_their_ts_median,-2.0
+area_corr_median,0.9545897129590019
+PASS,False
