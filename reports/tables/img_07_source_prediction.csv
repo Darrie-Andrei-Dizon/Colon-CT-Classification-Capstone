@@ -1,0 +1,5 @@
+features,test_AUC,CI_low,CI_high,test_balanced_accuracy,train_CV_AUC,n_train,n_test
+Raw: 4 summaries,0.912,0.836,0.965,0.831,0.912,306,67
+Raw: 32-bin histogram,1.0,1.0,1.0,1.0,0.997,306,67
+Harmonised: 4 summaries,0.996,0.985,1.0,0.97,0.999,306,67
+Harmonised: 32-bin histogram,1.0,1.0,1.0,0.984,1.0,306,67

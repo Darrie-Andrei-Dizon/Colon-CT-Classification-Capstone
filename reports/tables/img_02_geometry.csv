@@ -1,0 +1,3 @@
+source,series,z_step_median,z_step_max,thickness_median,pixel_mm,matrix,slices_median,z_extent_mm,dup_z
+CTC,214,0.8,35.2,1.0,0.78,512,540.0,431.2,1
+StageII,230,5.0,5.3,5.0,0.72,512,56.5,277.5,0
